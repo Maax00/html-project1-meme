@@ -1,16 +1,14 @@
-
 #div1 {
     width: 50%;
     margin-left: 25%;
     color: white;
-    margin-top: 50px;
+    margin-top: 5%;
     font-family: "Libre Baskerville", serif;
 }
 
 img {
     background-color: white;
     border: 5px solid;
-    height: 300px;
     width: 100%;
 
 }
